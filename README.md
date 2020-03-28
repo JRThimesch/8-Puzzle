@@ -9,4 +9,4 @@ As outlined in the homework, a 0 corresponds to an empty tile.
 Once both puzzles have received their numbers, the script will attempt to solve the puzzle.
 
 Alternatively, the puzzles can be hardcoded in the constructors as a list of lists.
-> `Puzzle([[1,2,3], [4,5,6], [7,8,0]])
+> `Puzzle([[1,2,3], [4,5,6], [7,8,0]])`
